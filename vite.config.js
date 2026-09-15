@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/vue-to-do-app/',
+  base: '/vue-todo-app/',
   plugins: [vue(), tailwindcss()],
 })
